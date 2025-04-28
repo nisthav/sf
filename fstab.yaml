@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+    url: https://adobe.sharepoint.com/:f:/r/sites/nis-sf/Shared%20Documents/demoSf
+    type: markup
+
+folders:
+  /products/: /products/default
