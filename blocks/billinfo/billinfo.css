@@ -91,6 +91,8 @@
 
 .card-details .options{
   padding: 5px;
+  display: flex;
+  flex-direction: column;
 }
 
 .address-info input, .address-info select{
